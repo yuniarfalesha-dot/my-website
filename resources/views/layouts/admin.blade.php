@@ -27,7 +27,7 @@
   <!-- Sidebar -->
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <a href="#" class="brand-link">
-      <img src="{{ asset('images/logo.png') }}" alt="Dilesin Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
+      <img src="{{ asset('images/logo.png') }}" alt="Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
       <span class="brand-text font-weight-light">Dilesin Admin</span>
     </a>
 
